@@ -1,6 +1,6 @@
 <?
 
-echo "lol";
+echo "test196566";
 #phpinfo();
 
 ?>
